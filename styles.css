@@ -5,7 +5,7 @@ body {
     url(https://kenh14cdn.com/203336854389633024/2021/2/14/photo-1-1613285587164288435364.jpg);
     padding:0;
     background-size: 90%, cover;
-    background-repeat: repeat-y, repeat-y;
+    background-repeat: repeat-y, no-repeat;
     background-position: 
     center,
     left 0 top 0;
